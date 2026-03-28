@@ -1,4 +1,4 @@
-# Google Sheets Image Drag and Drop
+## Google Sheets Image Drag and Drop
 
 A lightweight Chrome Extension that automates the Google Sheets menu to make inserting images into cells a single-motion experience.
 
